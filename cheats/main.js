@@ -1,8 +1,8 @@
 window.exp = window.exp || {
     Overwrite: {
         enabled: true,
-        automate: false,
-        delay: 3
+        automate: true,
+        delay: 1
     },
     showAnswer: false,
     videoSpoof: true,
